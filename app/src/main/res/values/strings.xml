@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="btn_suma">Sumar</string>
+    <string name="btn_resta">Restar</string>
+    <string name="btn_multi">Multiplicar</string>
+    <string name="btn_division">Dividir</string>
+    <string name="btn_backMenu">Menú</string>
+    <string name="resultSuma">La suma es</string>
+    <string name="resultRest">La resta es</string>
+    <string name="resultMult">La multiplicación es</string>
+    <string name="text_num1">número 1</string>
+    <string name="text_num2">número 2</string>
+    <string name="resultDiv">La división es</string>
+    <string name="valoresVacios">Llena todos los campos para continuar!</string>
+    <string name="divisionCeroError">Dividir con 0 no se puede!</string>
+</resources>
